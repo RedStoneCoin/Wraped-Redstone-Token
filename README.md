@@ -1,6 +1,5 @@
 # Red-Stone Criptocurency Token
-Redstone is developed from scratch but until our main net we will havetest net on eth network!
-
+This is the erc20 based version of REdstone, this will be used until the from-scratch, new code base is finished. At that point the tokens on this network will be swapped.
 
 # Red-Stone Criptocurency
 
