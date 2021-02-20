@@ -1,11 +1,14 @@
 # Red-Stone Criptocurency Token
-This is the erc20 based version of Redstone, this will be used until the from-scratch, new code base is finished. At that point the tokens on this network will be swapped.
+This is the Trc20 based version of Redstone, this will be used until the from-scratch, new code base is finished. At that point the tokens on this network will be swapped.
 
 # Red-Stone Criptocurency
 
 This Red-Stone Criptocurency its new kinda of Criptocurency 
+110 million supply (10 for community 100 for ico)
+Name:Redstone
+Decimals:18
 
-Token on Ropsten Eth Test Net 
+Token on Tron netowork
 # RedStone Multi Blockhain Protocol
 
 ## How it will work?
