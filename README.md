@@ -4,10 +4,11 @@ This is the Trc20 based version of Redstone, this will be used until the from-sc
 # Red-Stone Criptocurency
 
 This Red-Stone Criptocurency its new kinda of Criptocurency 
+`
 110 million supply (10 for community 100 for ico)
 Name:Redstone
 Decimals:18
-
+`
 Token on Tron netowork
 # RedStone Multi Blockhain Protocol
 
