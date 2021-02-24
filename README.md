@@ -13,8 +13,7 @@ Token on Tron netowork
 # RedStone Multi Blockhain Protocol
 
 ## How it will work?
-How Redstone achives scalablity via a sharded setup.
-For our implementation of sharding, a transaction will be sentby a user, to the chain with the least amount of pending transactions. As miners can choose what chain to mine and so would neglect the smaller chains (less txns =  less reward) we will require merge mining, meaning the miners use the same resorces but mine on all the chains at once. There will be three chains because transactions will go through smoother and faster than with one, therefore reducing transaction times. 
+Redstone Protocl is a network made of peer-to-peer parallel blockchains, Redstone achieves the best scalability that was ever made via a sharded setup. For our implementation of sharding, a transaction will be sent by a user, to the chain with the least amount of pending transactions.There will be three or more chains because transactions will go through smoother and fasterthan with one, therefore reducing transaction times, every block in every chain will have themiracle root of the previous block from all chains there, thereby securing the whole network.
 Please note this is currently still a thesis and NOT a tested system, if you have any ideas or concerns please open an issue.
 
 ![rs](https://miro.medium.com/max/368/1*xP-zfedDLDzPgz6ER2XnAw.jpeg)
