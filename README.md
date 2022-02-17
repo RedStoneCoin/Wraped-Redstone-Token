@@ -1,20 +1,20 @@
-# Red-Stone Criptocurency Token
-This is the Trc20 based version of Redstone, this will be used until the from-scratch, new code base is finished. At that point the tokens on this network will be swapped.
+# RedStone Criptocurency Token
+This is the TRC20 based version of RedStone, this will be used until the from-scratch, new code base is finished. At that point the tokens on this network will be swapped.
 
-# Red-Stone Criptocurency
+# RedStone Cryptocurrency
 
-This Red-Stone Criptocurency its new kinda of Criptocurency 
+RedStone Cryptocurrency is a new kind of cryptocurrency 
 ```
 110 million supply (10 for community 100 for ico)
 Name:Redstone
 Decimls:18
 ```
-Token on Tron netowork
-# RedStone Multi Blockhain Protocol
+Token on Tron network
+# RedStone Multi Blockchain Protocol
 
 ## How it will work?
-Redstone Protocl is a network made of peer-to-peer parallel blockchains, Redstone achieves the best scalability that was ever made via a sharded setup. For our implementation of sharding, a transaction will be sent by a user, to the chain with the least amount of pending transactions.There will be three or more chains because transactions will go through smoother and fasterthan with one, therefore reducing transaction times, every block in every chain will have themiracle root of the previous block from all chains there, thereby securing the whole network.
-Please note this is currently still a thesis and NOT a tested system, if you have any ideas or concerns please open an issue.
+RedStone Protocol is a network made of peer-to-peer parallel blockchains. RedStone achieves the highest scalability ever via a sharded setup. For our implementation of sharding, a transaction will be sent by a user to the chain with the least amount of pending transactions. There will be three or more chains to make transactions execute smoother and faster, thereby reducing transaction times. Every block in every chain will have the merkle root of the previous block from all chains, securing the whole network.
+Please note this is currently still a thesis and NOT a tested system. If you have any ideas or concerns please open an issue.
 
 ![rs](https://miro.medium.com/max/368/1*xP-zfedDLDzPgz6ER2XnAw.jpeg)
 
